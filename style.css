@@ -1,5 +1,6 @@
 body{
-Background-color: white;
+  Background-color: white;
+  text-justify: inter-word;
 }
 h1{
   color: Black;
