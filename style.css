@@ -1,6 +1,8 @@
 body{
   Background-color: white;
   text-justify: inter-word;
+  backround-image:
+    url(https://think360studio.com/wp-content/uploads/2017/12/Learn-coding-online.jpeg);
 }
 h1{
   color: Black;
