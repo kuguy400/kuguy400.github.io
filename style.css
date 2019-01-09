@@ -4,7 +4,7 @@ body{
   
 }
 h1{
-  color: Black;
+  color: White;
   Font-family:TimesNewRoman;
   Text-align: center;
   
@@ -13,7 +13,7 @@ h2{
 
 }
 h3 {
-   color: grey; 
+   color: White; 
 }
 h4{
 
@@ -25,7 +25,7 @@ h6{
 
 }
 .question{
- color: blue;
+ color: White;
 }
 
 #MainParagraph{
