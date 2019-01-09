@@ -1,19 +1,19 @@
 body{
   Background-color: white;
   text-justify: inter-word;
-  backround-image: url("https://think360studio.com/wp-content/uploads/2017/12/Learn-coding-online.jpeg");
+  
 }
 h1{
   color: Black;
   Font-family:TimesNewRoman;
   Text-align: center;
-  text-indent: 50px;
+  
 }
 h2{
 
 }
 h3 {
-   color: grey;
+   color: grey; 
 }
 h4{
 
