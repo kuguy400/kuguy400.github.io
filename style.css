@@ -11,9 +11,11 @@ h1{
 }
 h2{
 color:white;
+Font-family:TimesNewRoman;
 }
 h3 {
    color: white; 
+  Font-family:TimesNewRoman;
 }
 h4{
 
@@ -26,19 +28,29 @@ h6{
 }
 .question{
  color: white;
+  Font-family:TimesNewRoman;
 }
 
 #MainParagraph{
   text-indent: 50px;
   color: white;
+  Font-family:TimesNewRoman;
 }
 #UL1{
   color: lime;
+  Font-family:TimesNewRoman;
+  
 }
 #UL1title {
   color: white;
+  Font-family:TimesNewRoman;
 }
 
 #ExtraHtml { 
    color: white;
+  Font-family:TimesNewRoman;
+}
+#CSS { 
+  color: white;
+  Font-family:TimesNewRoman;
 }
