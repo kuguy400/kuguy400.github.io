@@ -54,3 +54,7 @@ h6{
   color: white;
   Font-family:TimesNewRoman;
 }
+li a {
+  display: block;
+  width: 60px;
+}
