@@ -5,17 +5,17 @@ body{
 }
 h1{
   color:white;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
   Text-align: center;
   
 }
 h2{
 color:white;
-Font-family:TimesNewRoman;
+Font-family:Courier New;
 }
 h3 {
    color: white; 
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
 }
 h4{
 
@@ -28,30 +28,30 @@ h6{
 }
 .question{
  color: white;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
 }
 
 #MainParagraph{
   text-indent: 50px;
   color: white;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
 }
 #UL1{
   color: lime;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
   
 }
 #UL1title {
   color: white;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
 }
 
 #ExtraHtml { 
    color: white;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
 }
 #CSS { 
   color: white;
-  Font-family:TimesNewRoman;
+  Font-family:Courier New;
 }
 
