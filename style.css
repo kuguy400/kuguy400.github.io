@@ -47,13 +47,13 @@ h6{
 }
 
 #ExtraHtml { 
-   line-height: 1.6px;
+   line-height: 1.6em;
    text-indent: 50px;
    color: white;
   Font-family:Courier New;
 }
 #CSS { 
-  line-height: 1.6px;
+  line-height: 1.6em;
   text-indent: 50px;
   color: white;
   Font-family:Courier New;
